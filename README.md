@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Anotación Personal:
+Esta es una aplicación basada en el curso de Fazt en youtube, su funcionalidad es la de agregar
+tareas y removerlas.
+
 ## Available Scripts
 
 In the project directory, you can run:
