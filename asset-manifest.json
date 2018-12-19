@@ -1,14 +1,14 @@
 {
-  "main.css": "/PrimerProyectoReact/./static/css/main.0c3a3092.chunk.css",
-  "main.js": "/PrimerProyectoReact/./static/js/main.43bcc5c9.chunk.js",
-  "main.js.map": "/PrimerProyectoReact/./static/js/main.43bcc5c9.chunk.js.map",
-  "static/js/1.563bd48e.chunk.js": "/PrimerProyectoReact/./static/js/1.563bd48e.chunk.js",
-  "static/js/1.563bd48e.chunk.js.map": "/PrimerProyectoReact/./static/js/1.563bd48e.chunk.js.map",
-  "runtime~main.js": "/PrimerProyectoReact/./static/js/runtime~main.d710ea66.js",
-  "runtime~main.js.map": "/PrimerProyectoReact/./static/js/runtime~main.d710ea66.js.map",
-  "static/media/logo.svg": "/PrimerProyectoReact/./static/media/logo.ee7cd8ed.svg",
-  "static/css/main.0c3a3092.chunk.css.map": "/PrimerProyectoReact/./static/css/main.0c3a3092.chunk.css.map",
-  "index.html": "/PrimerProyectoReact/./index.html",
-  "precache-manifest.e9856ce44935d27f054b6ace78563551.js": "/PrimerProyectoReact/./precache-manifest.e9856ce44935d27f054b6ace78563551.js",
-  "service-worker.js": "/PrimerProyectoReact/./service-worker.js"
+  "main.css": "/PrimerProyectoReact/static/css/main.0c3a3092.chunk.css",
+  "main.js": "/PrimerProyectoReact/static/js/main.f68b5df5.chunk.js",
+  "main.js.map": "/PrimerProyectoReact/static/js/main.f68b5df5.chunk.js.map",
+  "static/js/1.563bd48e.chunk.js": "/PrimerProyectoReact/static/js/1.563bd48e.chunk.js",
+  "static/js/1.563bd48e.chunk.js.map": "/PrimerProyectoReact/static/js/1.563bd48e.chunk.js.map",
+  "runtime~main.js": "/PrimerProyectoReact/static/js/runtime~main.646717b6.js",
+  "runtime~main.js.map": "/PrimerProyectoReact/static/js/runtime~main.646717b6.js.map",
+  "static/media/logo.svg": "/PrimerProyectoReact/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.0c3a3092.chunk.css.map": "/PrimerProyectoReact/static/css/main.0c3a3092.chunk.css.map",
+  "index.html": "/PrimerProyectoReact/index.html",
+  "precache-manifest.5e2503808e6564cd677d8ac9dc59b67c.js": "/PrimerProyectoReact/precache-manifest.5e2503808e6564cd677d8ac9dc59b67c.js",
+  "service-worker.js": "/PrimerProyectoReact/service-worker.js"
 }
