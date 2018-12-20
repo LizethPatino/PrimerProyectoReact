@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Esta es una aplicación basada en el curso de Fazt en youtube, su funcionalidad es la de agregar
 tareas y removerlas.
 
+## Quieres ver el proyecto?:
+
+En el siguiente enlace puedes encontrar la aplicación : https://lizethpatino.github.io/PrimerProyectoReact/
+
 ## Available Scripts
 
 In the project directory, you can run:
